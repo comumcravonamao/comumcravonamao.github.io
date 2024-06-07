@@ -46,7 +46,7 @@ Como chegamos a esta resposta?
 Em contraste o número de vítimas Israelitas foi estimado em 1400 (número que já foi retificado para cerca de 1200[⁴]). Para além destas são ainda reportadas pelo IDF 425 vítimas militares.
 
 ## Conclusão
-É infeliz que estas comparações tenham sequer que ser feitas, mas têm.
+<span style="color:DimGrey">É infeliz que estas comparações tenham sequer que ser feitas, mas têm.</span>
 Pelas estimativas apresentadas cerca de 60% a 77% das vítimas (mortais) tanto em Gaza como em Israel foram civis. Pessoas que apenas querem viver a sua vida, vítimas que se podiam prevenir.
 Não chegamos sequer a falar das horríveis condições de vida impostas aos Palestinianos.
 
@@ -102,5 +102,5 @@ No milénio que vivemos **a guerra não é solução**
 
 **Notas de Autor**
 
-hostilidades<sup>*</sup>: entenda-se genocídio em Gaza.
+<span style="color:DimGrey">hostilidades<sup>*</sup>: entenda-se genocídio em Gaza.</span>
 
