@@ -5,7 +5,7 @@ categories: [análises, palestina]
 tags: [análises, palestina, israel]     # TAG names should always be lowercase
 ---
 
-_Notas Prévias_: Este artigo acompanha o formulário que deve ser respondido previamente.
+_Notas Prévias_: Este artigo acompanha o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdH2IKlxUTkCo1gFxzjHeQih05tmnyS28VeSIcIaMyAf9swqw/viewform) que deve ser respondido previamente.
 
 _Como interpretar_: Consultar o post [Bem Vindos](https://comumcravonamao.github.io/posts/bem-vindos/) para perceber as regras deste artigo.
 
