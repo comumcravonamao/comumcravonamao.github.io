@@ -47,7 +47,7 @@ Em contraste o número de vítimas Israelitas foi estimado em 1400 (número que 
 
 ## Conclusão
 <span style="color:DimGrey">É infeliz que estas comparações tenham sequer que ser feitas, mas têm.</span>
-Pelas estimativas apresentadas cerca de 60% a 77% das vítimas (mortais) tanto em Gaza como em Israel foram civis. Pessoas que apenas querem viver a sua vida, vítimas que se podiam prevenir.
+Pelas estimativas apresentadas cerca de 60% a 77% das vítimas (mortais) tanto em Gaza como em Israel foram civis. Pessoas que apenas querem viver a sua vida, vítimas que se podiam evitar.
 Não chegamos sequer a falar das horríveis condições de vida impostas aos Palestinianos.
 
 Deixamos aqui um apelo a participar em todas ou quaisquer ações de ajuda.
