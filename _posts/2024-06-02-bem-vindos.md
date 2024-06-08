@@ -9,7 +9,8 @@ tags: [bem_vindos]     # TAG names should always be lowercase
 # Bem Vindos
 
 Este é o lugar para encontrar algumas opiniões e análises do pais e do mundo.
-Aqui a diversidade e ideias defendendo a resolução de conflitos e o avanço das sociedades através da palavra, compreensão e solidariedade.
+
+Aqui apela-se à diversidade e ideias defendendo a resolução de conflitos e o avanço das sociedades através da palavra, compreensão e solidariedade.
 
 # Objectivos
 
