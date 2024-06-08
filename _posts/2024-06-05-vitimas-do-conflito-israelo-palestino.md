@@ -24,10 +24,10 @@ A resposta certa é "Aproximadamente à população do município de Bragança".
 
 Como chegamos a esta resposta?
 
-Segundo a Reuters[¹] até 14 de Maio de 2024 foram vítimas letais da das agressões de de Israel em Gaza cerca de 35000 pessoas. Destas cerca de 14000 destas (segundo as estimativas de Netanyahu) ou cerca de 8000 (segundo o Hamas[²]) são militares do Hamas.
+Segundo a Reuters[¹] até 14 de Maio de 2024 foram vítimas letais da das agressões de Israel em Gaza cerca de 35000 pessoas. Destas cerca de 14000 destas (segundo as estimativas de Netanyahu) ou cerca de 8000 (segundo o Hamas[²]) são militares do Hamas.
 
 Segundo a Wikipedia[³] o município de Bragança tem cerca de 34580 habitantes.
-Podemos portanto imaginar a situação em Gaza com se desde de 7 de Outubro de 2023 até 14 de Maio de 2024 todas os habitantes do município de Bragança fossem vitimas (letais) de uma guerra.
+Podemos portanto imaginar a situação em Gaza com se desde 7 de Outubro de 2023 até 14 de Maio de 2024 todas os habitantes do município de Bragança fossem vitimas (letais) de uma guerra.
 
  Mais ainda, caso não seja perto o suficiente de casa para muitos de nós aqui ficam mais exemplos:
 - Trofa: cerca de 38000 habitantes
