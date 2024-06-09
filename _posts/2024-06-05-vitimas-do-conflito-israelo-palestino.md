@@ -64,6 +64,7 @@ No milénio que vivemos **a guerra não é solução**
 - [https://decolonizepalestine.com/](https://decolonizepalestine.com/)
 - [https://www.youtube.com/watch?v=1wo2TLlMhiw&t=631s](https://www.youtube.com/watch?v=1wo2TLlMhiw&t=631s)
 - [https://www.youtube.com/watch?v=5pLvt8PNhCI](https://www.youtube.com/watch?v=5pLvt8PNhCI)
+- [https://www.mintpressnews.com/so-it-goes/](https://www.mintpressnews.com/so-it-goes/)
 
 ---
 
