@@ -57,10 +57,19 @@ No milénio que vivemos **a guerra não é solução**
 
 ## Entrar em ação
 - Ajudar através de programas interacionais: [https://www.publico.pt/2023/10/18/p3/noticia/podemos-ajudar-palestinianos-faixa-gaza-2067039](https://www.publico.pt/2023/10/18/p3/noticia/podemos-ajudar-palestinianos-faixa-gaza-2067039)
-- Participar em manifestações pró Palestina
+- Participar em manifestações pró Palestina: [https://mppm-palestina.org/](https://mppm-palestina.org/)
+- Reconhecer o estado da palestina: [https://peticaopublica.com/mobile/pview.aspx?pi=PT121107](https://peticaopublica.com/mobile/pview.aspx?pi=PT121107)
 - Falar com os nossos representantes políticos para que sigam os exemplos de nuestros hermanos para que reconheçam o a Palestina como um estado independente[⁵] (fica o contacto [https://x.com/govpt](https://x.com/govpt) )
 
 ## Outros recursos
+### Notícias
+- [https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker](https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker)
+- [https://www.mintpressnews.com/european-recognition-of-palestine-signals-major-shift-in-global-discourse/287516/](https://www.mintpressnews.com/european-recognition-of-palestine-signals-major-shift-in-global-discourse/287516/)
+
+### Redes sociais
+- [https://x.com/intent/tweet?text=Contactos%20https%3A%2F%2Fmppm-palestina.org%2Fcontent%2Fcontactos](https://x.com/intent/tweet?text=Contactos%20https%3A%2F%2Fmppm-palestina.org%2Fcontent%2Fcontactos)
+
+### Mais sobre a Palestina
 - [https://decolonizepalestine.com/](https://decolonizepalestine.com/)
 - [https://www.youtube.com/watch?v=1wo2TLlMhiw&t=631s](https://www.youtube.com/watch?v=1wo2TLlMhiw&t=631s)
 - [https://www.youtube.com/watch?v=5pLvt8PNhCI](https://www.youtube.com/watch?v=5pLvt8PNhCI)
