@@ -2,7 +2,7 @@
 title: "14/05/2024 Vítimas do conflito israelo-palestino"
 date: 2024-06-05 08:00:00 +0000
 categories: [análises, palestina]
-tags: [análises, palestina, israel]     # TAG names should always be lowercase
+tags: [esefosseportugal,análises, palestina, israel]     # TAG names should always be lowercase
 ---
 
 _Notas Prévias_: Este artigo acompanha o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdH2IKlxUTkCo1gFxzjHeQih05tmnyS28VeSIcIaMyAf9swqw/viewform) que deve ser respondido previamente.
