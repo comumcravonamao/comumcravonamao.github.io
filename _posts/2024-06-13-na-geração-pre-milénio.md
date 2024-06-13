@@ -5,23 +5,31 @@ categories: [opinião, poesia]
 tags: [poesia, milenials, pt]     # TAG names should always be lowercase
 ---
 
-
-# Na geração pré milénio
-<span style="color:DimGrey">
-Numa geração marcada pela inação
-Endoutrinada a aceitar
-que a alternativa é resmungar
+<p style="color:DimGrey">
+Numa geração marcada pela inação <br>
+Endoutrinada a aceitar <br>
+que a alternativa é resmungar <br>
 Numa geração de oprimida emoção
+</p>
 
-"Por enquanto nada poderás mudar
-Terás que esperar por um futuro amanhã...
+<p style="color:DimGrey">
+"Por enquanto nada poderás mudar <br>
+Terás que esperar por um futuro amanhã... <br>
 onde adulto, poderás votar"
+</p>
 
-Numa geração de ilusórios valores Desnorteados e alimentados de propagandas tais
-que pessoas não são mais.
+<p style="color:DimGrey">
+Numa geração de ilusórios valores <br>
+Desnorteados e alimentados de propagandas tais <br>
+que pessoas não são mais. <br>
 Numa geração dos liberados consumidores
+</p>
 
-Que diferença fará votar?
-Num presente entorpecido pelo ecrã
+<p style="color:DimGrey">
+Que diferença fará votar? <br>
+Num presente entorpecido pelo ecrã <br>
 onde  são vexadas as alternativas a considerar...
-</span>;
+</p>
+
+<p style="text-align:right">comumcravonamao</p>
+
