@@ -14,8 +14,8 @@ Numa geração de oprimida emoção
 
 <p style="color:DimGrey">
 "Por enquanto nada poderás mudar <br>
-Terás que esperar por um futuro amanhã... <br>
-onde adulto, poderás votar"
+Terás que esperar por um futuro, um amanhã... <br>
+em que, adulto, poderás votar"
 </p>
 
 <p style="color:DimGrey">
@@ -28,7 +28,7 @@ Numa geração dos liberados consumidores
 <p style="color:DimGrey">
 Que diferença fará votar? <br>
 Num presente entorpecido pelo ecrã <br>
-onde  são vexadas as alternativas a considerar...
+onde  são vexadas as alternativas que se deviam considerar...
 </p>
 
 <p style="text-align:right">comumcravonamao</p>
