@@ -111,7 +111,7 @@ No milénio que vivemos **a guerra não é solução**
 
 ---
 
-**Notas de Autor**
+## Notas de Autor
 
 <span style="color:DimGrey">hostilidades<sup>*</sup>: entenda-se genocídio em Gaza.</span>
 
