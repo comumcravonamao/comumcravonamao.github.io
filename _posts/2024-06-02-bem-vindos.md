@@ -3,6 +3,8 @@ title: "Bem Vindos"
 date: 2024-06-02 08:00:00 +0000
 categories: [geral, bem_vindos]
 tags: [pt, bem_vindos]     # TAG names should always be lowercase
+description: "O que esperar deste blog"
+toc: true
 ---
 
 
