@@ -5,7 +5,10 @@ order: 4
 ---
 Follow on:
 
-twitter: https://x.com/comumcravonamao
-instagram: https://www.instagram.com/comumcravonamao/
-tiktok: https://www.tiktok.com/@comumcravonamao
-youtube: www.youtube.com/@comumcravonamao
+twitter: [https://x.com/comumcravonamao](https://x.com/comumcravonamao)
+
+instagram: [https://instagram.com/comumcravonamao](https://instagram.com/comumcravonamao)
+
+tiktok: [https://tiktok.com/@comumcravonamao](https://tiktok.com/@comumcravonamao)
+
+youtube: [http://youtube.com/@comumcravonamao](http://youtube.com/@comumcravonamao)
