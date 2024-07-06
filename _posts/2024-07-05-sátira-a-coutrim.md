@@ -9,14 +9,14 @@ tags: [poesia, pt, sátira]
 <p>
 Esse tal de Figueiredo<br>
 é me moço mal encarado<br>
-Não distingue a direita da esquerda<br>
-nem com a economia lh'adestrada<br>
+Desvirtua a moral da moçada<br>
+com a economia lh'adestrada<br>
 </p>
 <p>
 Diz-se livre e liberado<br>
 pela sua ideologia marada<br>
-Não te diz a ti porém com quem anda irmanado...<br>
-Chega! Cala-te boca, fica nasé cerrada<br>
+não te dizendo com quem anda irmanado...<br>
+Chega! Cala-te boca, fica masé cerrada<br>
 </p>
 </div>
 <p style="text-align:right">comumcravonamao</p>
