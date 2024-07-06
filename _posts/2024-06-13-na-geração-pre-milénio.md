@@ -1,7 +1,7 @@
 ---
 title: "Na geração pré milénio"
 date: 2024-06-13 08:00:00 +0000
-categories: [opinião, poesia]
+categories: [poesia]
 tags: [poesia, milenials, pt]     # TAG names should always be lowercase
 ---
 
