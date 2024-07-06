@@ -2,7 +2,7 @@
 title: "Apelo à paz"
 date: 2024-07-05 08:00:00 +0000
 categories: [poesia]
-tags: [poesia, pt]
+tags: [poesia, pt, poesiainterventiva]
 ---
 
 <div style="color:DimGrey">

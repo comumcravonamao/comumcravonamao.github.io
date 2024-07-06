@@ -12,7 +12,7 @@ toc: true
 
 Este é o lugar para encontrar algumas opiniões e análises do pais e do mundo.
 
-Aqui apela-se à diversidade e ideias defendendo a resolução de conflitos e o avanço das sociedades através da palavra, compreensão e solidariedade.
+Aqui apela-se à diversidade e ideias defendendo a resolução de conflitos e o avanço das sociedades através da palavra, compreensão, solidariedade e até poesia.
 
 # Objectivos
 
