@@ -3,6 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
+Follow on:
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+twitter: https://x.com/comumcravonamao
+instagram: https://www.instagram.com/comumcravonamao/
+tiktok: https://www.tiktok.com/@comumcravonamao
+youtube: www.youtube.com/@comumcravonamao
