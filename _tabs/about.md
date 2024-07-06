@@ -11,4 +11,4 @@ instagram: [https://instagram.com/comumcravonamao](https://instagram.com/comumcr
 
 tiktok: [https://tiktok.com/@comumcravonamao](https://tiktok.com/@comumcravonamao)
 
-youtube: [http://youtube.com/@comumcravonamao](http://youtube.com/@comumcravonamao)
+youtube: [https://youtube.com/@comumcravonamao](https://youtube.com/@comumcravonamao)
