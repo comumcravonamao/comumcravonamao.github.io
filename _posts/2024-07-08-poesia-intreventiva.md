@@ -5,7 +5,7 @@ categories: [poesia]
 tags: [poesia, pt, poesiainterventiva]
 ---
 
-<div style="color:DimGrey">
+<div style="color:Platinum">
 <p>
 Interventiva e preferida<br>
 menos polida ca'erudita<br>

@@ -25,7 +25,7 @@ Este é um projecto que luta pelo humanismo, honestidade e justiça social e que
 1. Sejam civilizados;
   - De acordo ou não, leiam, comentem onde for pertinente, mas repeitem as opiniões dos outros;
 2. Os factos têm referencias;
-3. As opiniões estão em <span style="color:DimGrey">cinzento</span>;
+3. As opiniões estão em <span style="color:Platinum">cinzento</span>;
 4. As citação estão em <span style="color:Seashell;font-style:italic;">branco</span>;
 
 ---

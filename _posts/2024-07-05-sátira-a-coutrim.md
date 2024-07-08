@@ -5,7 +5,7 @@ categories: [poesia, sátira]
 tags: [poesia, pt, sátira]
 ---
 
-<div style="color:DimGrey">
+<div style="color:Platinum">
 <p>
 Esse tal de Figueiredo<br>
 é me moço mal encarado<br>

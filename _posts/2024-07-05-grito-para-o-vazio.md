@@ -5,7 +5,7 @@ categories: [poesia]
 tags: [poesia, pt]
 ---
 
-<div style="color:DimGrey">
+<div style="color:Platinum">
 <p>
 Grito para o vazio<br>
 o que penso, o que sinto<br>

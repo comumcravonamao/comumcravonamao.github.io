@@ -5,7 +5,7 @@ categories: [poesia]
 tags: [poesia, pt, poesiainterventiva]
 ---
 
-<div style="color:DimGrey">
+<div style="color:Platinum">
 Não à guerra e à maldade <br>
 Não à dor e desigualdade <br>
 Uso as palavras como arma <br>

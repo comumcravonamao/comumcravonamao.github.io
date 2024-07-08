@@ -5,7 +5,7 @@ categories: [poesia]
 tags: [poesia, pt, sátira, poesiainterventiva]
 ---
 
-<div style="color:DimGrey">
+<div style="color:Platinum">
 <p>
 Não estou aqui pra t'encantar,<br>
 sim pra discutir o penso<br>
