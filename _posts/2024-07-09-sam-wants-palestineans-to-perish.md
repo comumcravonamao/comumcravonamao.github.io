@@ -13,6 +13,8 @@ Free Palestine from oppression.
 
 ![sam-wants-palestinians-to-perish-v1](/assets/images/sam-wants-palestinians-to-perish-v1.png)
 <p style="text-align:right">comumcravonamao</p>
+---
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fcomumcravonamao.github.io%2Fposts%2Fsam-wants-palestineans-to-perish%2F&text=Free%20Palestine&hashtags=freePalestine">Share on Twitter</a>
 
 ## Fontes
 
