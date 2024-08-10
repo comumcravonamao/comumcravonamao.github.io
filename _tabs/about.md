@@ -3,6 +3,10 @@
 icon: fas fa-info-circle
 order: 4
 ---
+
+[https://comumcravonamao.github.io/posts/bem-vindos/](https://comumcravonamao.github.io/posts/bem-vindos/)
+
+
 Follow on:
 
 twitter: [https://x.com/comumcravonamao](https://x.com/comumcravonamao)
