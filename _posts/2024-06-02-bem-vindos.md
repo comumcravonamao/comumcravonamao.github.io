@@ -33,6 +33,9 @@ Este é um projecto que luta pelo humanismo, honestidade e justiça social e que
 Muitos dos artigos têm fontes de inspiração. Estão estou nas referências ou embebidas (caso das músicas).
 
 ---
+# Links e referências
+
+- [https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx](https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx)
 
 # Musas
 
