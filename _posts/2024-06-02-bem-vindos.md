@@ -28,10 +28,29 @@ Este é um projecto que luta pelo humanismo, honestidade e justiça social e que
 3. As opiniões estão em <span style="color:Platinum">cinzento</span>;
 4. As citação estão em <span style="color:Seashell;font-style:italic;">branco</span>;
 
----
-
 ## Musas
 
 Muitos dos artigos têm fontes de inspiração. Estão estou nas referências ou embebidas (caso das músicas).
 
+---
+
+# Musas
+
 <iframe style="border: 0; width: 480px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1404691174/size=small/bgcol=333333/linkcol=0f91ff/track=2956531205/transparent=true/" seamless><a href="https://rastilho.bandcamp.com/album/o-ltimo-p-r-do-sol">O último pôr do sol by Viralata</a></iframe>
+
+
+---
+
+> Vós podeis chamar-me louco,
+>
+> Democrata, socialista,
+>
+> E comunista também,
+>
+> Que eu sou de tudo isso um pouco,
+>
+> Pois sou uma coisa mista
+>
+> Do bom que isso tudo tem.
+
+_António Aleixo_
