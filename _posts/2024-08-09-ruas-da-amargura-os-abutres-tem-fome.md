@@ -10,7 +10,7 @@ Um interpretação gráfica da música de Viralata pelo mesmo nome e a primeira 
 
 ## Cartoon
 
-![os-abutres-tem-fome_v2_2](/assets/images/os-abutres-tem-fome_v2_2.png)
+![os-abutres-tem-fome_v3](/assets/images/os-abutres-tem-fome_v3.png)
 <p style="text-align:right">comumcravonamao</p>
 
 ## Musas
