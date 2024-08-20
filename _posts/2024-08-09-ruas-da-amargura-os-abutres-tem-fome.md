@@ -17,6 +17,11 @@ Um interpretação gráfica da música de Viralata pelo mesmo nome e a primeira 
 
 <iframe style="border: 0; width: 480px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1404691174/size=small/bgcol=333333/linkcol=0f91ff/track=3572683908/transparent=true/" seamless aoutoplay><a href="https://rastilho.bandcamp.com/album/o-ltimo-p-r-do-sol">O último pôr do sol by Viralata</a></iframe>
 
+Mahmoud Abbas
+- [@mahmoud3bbas](https://www.instagram.com/mahmoud3bbas)
+- [https://www.cartoonmovement.com/cartoonist/994](https://www.cartoonmovement.com/cartoonist/994)
+
+
 ### Agradecimentos
 Obrigado aos artistas da banda Viralata, fonte de inspiração para esta peça.
 Suportem os artista @:
