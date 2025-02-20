@@ -39,6 +39,8 @@ Muitos dos artigos têm fontes de inspiração. Estão estou nas referências ou
 
 # Musas
 
+![](/assets/images/we-dont-want-your-fucking-war.png)
+
 <iframe style="border: 0; width: 480px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1404691174/size=small/bgcol=333333/linkcol=0f91ff/track=2956531205/transparent=true/" seamless><a href="https://rastilho.bandcamp.com/album/o-ltimo-p-r-do-sol">O último pôr do sol by Viralata</a></iframe>
 
 
