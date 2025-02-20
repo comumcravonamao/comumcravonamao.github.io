@@ -1,8 +1,8 @@
 ---
 title: "Livros: A Europa OTANizada"
 date: 2025-01-29 08:00:00 +0000
-categories: [livros]
-tags: [international, pt]
+categories: [recomendação, livros]
+tags: [recomendação, international, pt]
 description: "A Europa OTANizada um provocador desabafo da real EU"
 ---
 Um livro que se lê sem esforço e que flui como uma conversa que se arrasta tarde fora ao sabor de uma salada de pimentos e, tal como a salada, que se fica a remoer noite dentro.
