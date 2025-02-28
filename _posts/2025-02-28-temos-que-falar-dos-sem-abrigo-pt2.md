@@ -30,4 +30,4 @@ Here are 3 articles to remember that:
 ## Referencias / References
 - [Chatting to Someone Who Has Experienced Homelessness](https://youtu.be/oKo33fpbWCM?si=3IdiwTeVTHlJGds)
 - [O absurdo de haver mais casas vazias do que sem-abrigo](https://leituracapital.wordpress.com/2012/11/26/o-absurdo-de-haver-mais-casas-vazias-do-que-sem-abrigo/)
-- [Sem-Abrigo Vs Casas Desabitadas (Psicopatia?)](http://tres-paragrafos.blogspot.com/2013/01/sem-abrigo-vs-casas-desabitadas.html?m=1)
+- [Sem-Abrigo Vs Casas Desabitadas (Psicopatia?)](https://tres-paragrafos.blogspot.com/2013/01/sem-abrigo-vs-casas-desabitadas.html?m=1)
