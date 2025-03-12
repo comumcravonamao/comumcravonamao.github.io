@@ -14,6 +14,8 @@ Este é o lugar para encontrar algumas opiniões e análises do pais e do mundo.
 
 Aqui apela-se à diversidade e ideias defendendo a resolução de conflitos e o avanço das sociedades através da palavra, compreensão, solidariedade sátira e até poesia.
 
+É uma viagem de descoberta. É sobre filosofia e crescimento pessoal e o que com todos devemos partilhar.
+
 # Objectivos
 
 Este é um projecto que luta pelo humanismo, honestidade e justiça social e que se debruça sobre sociedade política e economia.
@@ -33,6 +35,37 @@ Este é um projecto que luta pelo humanismo, honestidade e justiça social e que
 Muitos dos artigos têm fontes de inspiração. Estão estou nas referências ou embebidas (caso das músicas).
 
 ---
+
+# Welcome
+
+This is the place to find opinions and analyses of the country and the world.
+
+Here we appeal to diversity and ideas, defending the resolution of conflicts and the advancement of societies through words, understanding, solidarity, satire and even poetry.
+
+It is a journey of discovery. It's about philosophy and personal growth that we should all share.
+
+# Objectives
+
+This is a project that fights for humanism, honesty and social justice and that focuses on political society and the economy.
+
+It is openly in favor of transparent journalism with its views and ideologies clearly discriminated; as well as in favor of independent journalism without geopolitical borders.
+
+It is also openly against the oppression of peoples in its different forms, in particular against war.
+
+# House Rules
+
+1. Be civilized;
+- Whether you agree or not, read, comment where relevant, but repeat the opinions of others;
+2. Facts have references;
+3. Opinions are in <span style="color:Platinum">gray</span>;
+4. Quotes are in <span style="color:Seashell;font-style:italic;">white</span>;
+
+## Muses
+
+Many of the articles have sources of inspiration. I am in the references or embedded (in the case of songs).
+
+---
+
 # Links e referências
 
 - [https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx](https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx)
