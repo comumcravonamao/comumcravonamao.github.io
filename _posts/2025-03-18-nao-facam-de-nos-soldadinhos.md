@@ -3,7 +3,7 @@ title: "Não façam de nós soldadinhos"
 date: 2025-03-18 08:00:00 +0000
 categories: [poesia]
 tags: [poesia, pt, poesiainterventiva]
-description: "Pois se te fazes soldadinho ... a caixa de pinho está mesmo quase a chegarv"
+description: "Pois se te fazes soldadinho ... a caixa de pinho está mesmo quase a chegar"
 ---
 
 ## Parte 1
