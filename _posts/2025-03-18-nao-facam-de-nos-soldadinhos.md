@@ -23,7 +23,7 @@ assoladas a lutar?<br>
 Àquelas qu’aos filhos dizem,<br>
 como mãe, os tanto amar,<br>
 ora o que fazem<br>
-vós guerreira pra não os deixar levar?<br>
+vós guerreiras pra não os deixar levar?<br>
 <br>
 Pois se te fazes soldadinho,<br>
 a ti ou aos queres amar,<br>
