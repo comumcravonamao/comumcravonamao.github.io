@@ -6,11 +6,11 @@ tags: [recomendação, international, poesia]
 ---
 ## PT
 
-Encontrei este poema no redit e queria partilhar.
+Encontrei este poema no reedit e queria partilhar.
 
 ## International
 
-Found this one on redit and wanted to share.
+Found this one on reedit and wanted to share.
 
 ## Poem
 
