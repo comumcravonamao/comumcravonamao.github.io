@@ -1,0 +1,21 @@
+---
+title: "They do not look like nazis"
+date: 2025-03-25 08:00:00 +0000
+categories: [recomendação]
+tags: [recomendação, international, poesia]
+---
+## PT
+
+Encontrei este poema no redit e queria partilhar.
+
+## International
+
+Found this one on redit and wanted to share.
+
+## Poem
+
+![they-do-no-look-like-nazis](/assets/images/they-do-no-look-like-nazis.png)
+
+## Credits to
+
+[sirsnydley](https://www.reddit.com/u/sirsnydley/s/dLl3oczuVS)
