@@ -1,7 +1,7 @@
 ---
 title: "Temos que falar dos sem abrigo pt2"
 date: 2025-02-28 08:00:00 +0000
-categories: [análise, "ruas da amargura"]
+categories: [análises, "ruas da amargura"]
 tags: [pt, international, sem-abrigo, homeless]
 description: "Temos que falar dos sem abrigo pt2"
 ---
