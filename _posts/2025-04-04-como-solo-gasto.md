@@ -43,3 +43,7 @@ a consciência renovada<br>
 
 ![como-solo-gasto-reclamado](/assets/images/como-solo-gasto-reclamado.png)
 
+## Musas
+
+### Em resposta
+https://estatuadesal.com/2025/01/29/uma-ode-a-estupidez/
