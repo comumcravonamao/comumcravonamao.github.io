@@ -68,6 +68,8 @@ Mas por se crer o diferente<br>
 
 ![respeito-I](/assets/images/respeito-I-minoria.png)
 
+![respeito-I](/assets/images/respeito-I-final.png)
+
 ![respeito-I](/assets/images/respeito-I-total.png)
 ## Musas
 - https://pt.wikipedia.org/wiki/Paradoxo_da_toler%C3%A2ncia
