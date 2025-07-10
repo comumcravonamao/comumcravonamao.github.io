@@ -1,7 +1,7 @@
 ---
 title: "Hipócritas emigrantes"
 date: 2025-05-15 08:00:00 +0000
-categories: [quotes "Henrique Segurado"]
+categories: [quotes, "Henrique Segurado"]
 tags: [análises, opinião, poesia]
 ---
 
