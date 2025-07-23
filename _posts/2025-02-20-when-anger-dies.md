@@ -1,8 +1,8 @@
 ---
 title: "When Anger Dies"
 date: 2025-02-20 08:00:00 +0000
-categories: [poesia]
-tags: [poesia, international, poesiainterventiva]
+categories: [EN, Poetry]
+tags: [poesia, poetry, international, poesiainterventiva]
 ---
 
 <div style="color:Platinum">

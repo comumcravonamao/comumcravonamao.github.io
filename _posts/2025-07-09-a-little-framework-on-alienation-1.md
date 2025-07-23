@@ -1,8 +1,8 @@
 ---
 title: "A little framework on Alienation and the self"
 date: 2025-07-09 07:00:00 +0000
-categories: [teoria]
-tags: [international]
+categories: [EN, Theory]
+tags: [international, theory]
 ---
 
 # Prelude
@@ -122,8 +122,11 @@ Stands out from this analysis, that the feeling of alienation can be mitigated b
 By:
 
 1- the living place, creating bonds, sharing spaces and values
+
 2- in the production of goods and services, defining goals and methodologies in a cooperative fashion 
+
 3- bringing decisions closer to the affected populations
+
 4- aligning the above points in accordance with society's goals
 
 It would be reasonable to assume that such feelings (and its adverse effects) should be mitigated. 

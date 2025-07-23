@@ -1,8 +1,8 @@
 ---
 title: "IL Super Red Scared"
 date: 2024-08-20 08:00:00 +0000
-categories: [cartoon, "anti propaganda"]
-tags: [pt, sátira, cartoon]
+categories: [Cartoon]
+tags: [pt, sátira, cartoon,  "anti-propaganda"]
 description: "A ironia do vermelho a aparecer de dentro do azul"
 ---
 

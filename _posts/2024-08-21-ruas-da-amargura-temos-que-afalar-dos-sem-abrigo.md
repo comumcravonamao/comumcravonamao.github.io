@@ -1,8 +1,8 @@
 ---
 title: "Temos que falar dos sem abrigo"
 date: 2024-08-21 08:00:00 +0000
-categories: [cartoon, "ruas da amargura"]
-tags: [pt, cartoon, sem-abrigo, homeless]
+categories: [Cartoon]
+tags: [pt, cartoon, sem-abrigo, "ruas da amargura"]
 description: "Temos que falar dos sem abrigo"
 ---
 

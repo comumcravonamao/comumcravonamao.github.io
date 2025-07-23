@@ -1,7 +1,7 @@
 ---
 title: "Venham mais Cinco"
 date: 2025-04-18 08:00:00 +0000
-categories: [geral abril]
+categories: [PT, Geral]
 tags: [25abril, pt]
 ---
 

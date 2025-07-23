@@ -1,8 +1,8 @@
 ---
 title: "Gaza victims vs USA shootings"
 date: 2024-07-24 07:00:00 +0000
-categories: [análises, palestina]
-tags: [palestina]
+categories: [PT, Análises]
+tags: [palestina, análises, usa]
 description: "If USA shootings what about the Gaza crimes against children?"
 ---
 

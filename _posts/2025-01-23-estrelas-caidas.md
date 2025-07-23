@@ -1,8 +1,8 @@
 ---
 title: "Estrelas Caidas"
 date: 2025-01-29 08:00:00 +0000
-categories: [cartoon, "anti propaganda"]
-tags: [international, pt, cartoon, sátira]
+categories: [Cartoon]
+tags: [international, "anti-propaganda", pt, cartoon, sátira]
 description: "A degradação da UE / The fall of the EU"
 ---
 ## _Prelúdio_

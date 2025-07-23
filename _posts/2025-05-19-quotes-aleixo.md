@@ -1,8 +1,8 @@
 ---
 title: "Quotes Aleixo"
 date: 2025-05-19 08:00:00 +0000
-categories: [quotes, Aleixo]
-tags: [pt, quotes]
+categories: [PT, Quotes]
+tags: [pt, quotes, Aleixo]
 ---
 
 <p>

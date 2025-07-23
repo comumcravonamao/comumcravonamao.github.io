@@ -1,8 +1,8 @@
 ---
 title: "50 Stars of Wars"
 date: 2025-01-23 08:00:00 +0000
-categories: [cartoon, "anti propaganda"]
-tags: [international, cartoon, sátira]
+categories: [Cartoon]
+tags: [international, cartoon, "anti-propaganda", satire]
 description: "USA a manifestation of the Star Wars universe"
 ---
 

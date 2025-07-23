@@ -1,7 +1,7 @@
 ---
 title: "Como solo gasto"
 date: 2025-04-04 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt]
 description: "Solo, donde frescos não se colhem, abandonado, seco, de vida isento assim hoje está o Homem, desnutre qualquer pensamento"
 ---

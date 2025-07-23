@@ -1,7 +1,7 @@
 ---
 title: "Grito para o vazio"
 date: 2024-07-05 08:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt]
 ---
 

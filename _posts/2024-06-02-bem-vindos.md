@@ -1,12 +1,11 @@
 ---
 title: "Bem Vindos"
 date: 2024-06-02 08:00:00 +0000
-categories: [geral, bem_vindos]
-tags: [pt, bem_vindos]     # TAG names should always be lowercase
-description: "O que esperar deste blog"
+categories: [PT, "Bem Vindos"]
+tags: [pt, bem_vindos, geral]     # TAG names should always be lowercase
+description: "O que esperar deste blog?"
 toc: true
 ---
-
 
 # Bem Vindos
 
@@ -14,13 +13,19 @@ Este é o lugar para encontrar algumas opiniões e análises do pais e do mundo.
 
 Aqui apela-se à diversidade e ideias defendendo a resolução de conflitos e o avanço das sociedades através da palavra, compreensão, solidariedade sátira e até poesia.
 
-É uma viagem de descoberta. É sobre filosofia e crescimento pessoal e o que com todos devemos partilhar.
+É uma viagem de descoberta. É sobre filosofia e crescimento pessoal, e que com todos devemos partilhar.
+
+Viva A Liberdade!
+
+![com um cravo na mao](assets/images/com_um_cravo_na_mao.png)
 
 # Objectivos
 
 Este é um projecto que luta pelo humanismo, honestidade e justiça social e que se debruça sobre sociedade política e economia.
 É abertamente a favor de um jornalismo transparente com os seus viés e ideologias claramente discriminadas; bem como a favor do jornalismo independente e sem fronteiras geopolíticas.
 É também declaradamente contra a opressão dos povos nas suas diferentes formas em particular contra a guerra.
+
+Vamos ver onde nos leva.
 
 # Regras
 
@@ -36,39 +41,10 @@ Muitos dos artigos têm fontes de inspiração. Estão estou nas referências ou
 
 ---
 
-# Welcome
-
-This is the place to find opinions and analyses of the country and the world.
-
-Here we appeal to diversity and ideas, defending the resolution of conflicts and the advancement of societies through words, understanding, solidarity, satire and even poetry.
-
-It is a journey of discovery. It's about philosophy and personal growth that we should all share.
-
-# Objectives
-
-This is a project that fights for humanism, honesty and social justice and that focuses on political society and the economy.
-
-It is openly in favor of transparent journalism with its views and ideologies clearly discriminated; as well as in favor of independent journalism without geopolitical borders.
-
-It is also openly against the oppression of peoples in its different forms, in particular against war.
-
-# House Rules
-
-1. Be civilized;
-- Whether you agree or not, read, comment where relevant, but repeat the opinions of others;
-2. Facts have references;
-3. Opinions are in <span style="color:Platinum">gray</span>;
-4. Quotes are in <span style="color:Seashell;font-style:italic;">white</span>;
-
-## Muses
-
-Many of the articles have sources of inspiration. I am in the references or embedded (in the case of songs).
-
----
-
-# Links e referências
+# Links 
 
 - [https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx](https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx)
+- [https://bookshelf.theanarchistlibrary.org/library/librarian-picks](https://bookshelf.theanarchistlibrary.org/library/librarian-picks)
 
 # Musas
 

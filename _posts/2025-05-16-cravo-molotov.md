@@ -1,7 +1,7 @@
 ---
 title: "Cravo molotov"
 date: 2025-05-16 08:00:00 +0000
-categories: [cartoon]
+categories: [Cartoon]
 tags: [pt, cartoon]
 ---
 

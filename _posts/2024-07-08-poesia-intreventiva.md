@@ -1,7 +1,7 @@
 ---
 title: "Poesia interventiva"
 date: 2024-07-08 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt, poesiainterventiva]
 ---
 

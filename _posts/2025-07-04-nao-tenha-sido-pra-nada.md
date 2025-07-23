@@ -1,7 +1,7 @@
 ---
 title: "Não tenha sido pra nada"
 date: 2025-07-04 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt]
 description: "...Não tenha sido para nada"
 ---

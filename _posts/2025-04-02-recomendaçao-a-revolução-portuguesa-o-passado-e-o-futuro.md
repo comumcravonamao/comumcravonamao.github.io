@@ -1,7 +1,7 @@
 ---
 title: "A Revolução Portuguesa o Passado e o Futuro"
 date: 2025-04-02 08:00:00 +0000
-categories: [recomendação, livros]
+categories: [PT, Livros]
 tags: [recomendação]
 ---
 

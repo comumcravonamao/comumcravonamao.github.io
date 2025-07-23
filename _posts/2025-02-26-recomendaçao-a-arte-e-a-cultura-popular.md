@@ -1,8 +1,8 @@
 ---
 title: "A Arte e a Cultura Popular"
 date: 2025-02-26 08:00:00 +0000
-categories: [recomendação, livros]
-tags: [recomendação, international, journalism]
+categories: [PT, Livros]
+tags: [recomendação, international]
 ---
 ![Capa](/assets/images/Arte-CulturaPop.jpg)
 

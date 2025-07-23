@@ -1,7 +1,7 @@
 ---
 title: "Sátira a Coutrim"
 date: 2024-07-05 08:00:00 +0000
-categories: [poesia, sátira]
+categories: [PT, Sátira]
 tags: [poesia, pt, sátira]
 ---
 

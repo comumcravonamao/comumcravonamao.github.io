@@ -1,7 +1,7 @@
 ---
 title: "Nenhum homem é estrangeiro"
 date: 2025-05-12 08:00:00 +0000
-categories: [recomendação, livros]
+categories: [PT, Livros]
 tags: [recomendação, international, journalism]
 ---
 ![Capa](/assets/images/nenhum-homem-e-estrangeiro.jpg)

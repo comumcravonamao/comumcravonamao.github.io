@@ -1,8 +1,8 @@
 ---
 title: "The Library Economy"
 date: 2025-02-20 08:00:00 +0000
-categories: [recomendação]
-tags: [recomendação, international]
+categories: [EN, Recomendations]
+tags: [recomendação, international, recomendations]
 ---
 
 Recomendação desta semana (This week's recommendation):

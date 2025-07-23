@@ -1,7 +1,7 @@
 ---
 title: "How Marxist communist revolution was wrong"
 date: 2025-04-04 07:00:00 +0000
-categories: [opinião, soltos]
+categories: [EN, Thoughts]
 tags: [opinão, international]
 description: " Communist revolutions, by this logic should be successful when the populous is and is known to be at the mercy of some regime that extends no sympathy to them, dictatorial regimes or colonial rule being the best examples."
 ---

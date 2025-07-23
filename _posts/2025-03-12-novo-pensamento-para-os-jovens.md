@@ -1,7 +1,7 @@
 ---
 title: "Novo pensamento para os jovens "
 date: 2025-03-12 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt, poesiainterventiva]
 description: "Não é loucura, é com seriedade que'ste sonho de formas invisíveis será conseguido nas coisas tangíveis, na humanidade e na verdade"
 ---

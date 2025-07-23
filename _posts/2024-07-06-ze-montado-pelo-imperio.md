@@ -1,7 +1,7 @@
 ---
 title: "Zé montado pelo imperio"
 date: 2024-07-06 07:00:00 +0000
-categories: [cartoon]
+categories: [Cartoon]
 tags: [pt, sátira, cartoon]
 description: "Tão verdade dantes com agora, depois de uma eleição quem acarta é sempre o mesmo."
 ---

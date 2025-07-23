@@ -1,8 +1,8 @@
 ---
 title: "On saving Ukraine"
 date: 2025-04-04 07:00:00 +0000
-categories: [opinião, soltos]
-tags: [opinão, international]
+categories: [EN, Thoughts]
+tags: [opinão, opinion, international]
 description: "I don't know how this is controversial, but standing with Ukraine as the eu/usa meant it to be is stupid."
 ---
 

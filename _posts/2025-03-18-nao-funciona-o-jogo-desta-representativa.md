@@ -1,7 +1,7 @@
 ---
 title: "Não funciona o jogo desta representativa"
 date: 2025-03-18 08:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt, poesiainterventiva]
 description: "Não funciona esta representativa ... Não funciona! São só engodos"
 ---

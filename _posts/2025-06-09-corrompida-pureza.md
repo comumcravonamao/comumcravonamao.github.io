@@ -1,7 +1,7 @@
 ---
 title: "Corrompida pureza"
 date: 2025-06-09 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt]
 ---
 

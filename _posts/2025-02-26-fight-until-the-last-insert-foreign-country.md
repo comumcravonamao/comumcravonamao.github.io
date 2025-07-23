@@ -1,8 +1,8 @@
 ---
 title: "Fight until the last [insert foreign country man]"
 date: 2025-02-26 08:00:00 +0000
-categories: [análises]
-tags: [international, usa]
+categories: [EN, Analysis]
+tags: [international, usa, analysis]
 ---
 # Fight until the last man
 

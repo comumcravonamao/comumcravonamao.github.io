@@ -1,12 +1,12 @@
 ---
 title: "Free Palestine from U.S.A."
 date: 2024-07-06 07:00:00 +0000
-categories: [cartoon]
-tags: [palestina, sátira, cartoon]
+categories: [Cartoon]
+tags: [palestina, palestine, satire, sátira, cartoon]
 description: "Free Palestine from U.S.A."
 ---
 
-The U.S. senate supportes the genocide in Gaza. It must stop!
+The U.S. senate supports the genocide in Gaza. It must stop!
 Free Palestine from oppression.
 
 ## Cartoon

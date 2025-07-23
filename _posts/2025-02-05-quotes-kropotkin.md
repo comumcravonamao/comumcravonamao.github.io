@@ -1,8 +1,8 @@
 ---
 title: "Quotes Kropotkin"
 date: 2025-02-05 08:00:00 +0000
-categories: [quotes, Kropotkin]
-tags: [international, quotes]
+categories: [EN, Quotes]
+tags: [international, quotes, Kropotkin]
 ---
 # An Appeal to the Young (1880)
 

@@ -1,7 +1,7 @@
 ---
 title: "Mente vazia não cria"
 date: 2025-07-04 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt]
 ---
 

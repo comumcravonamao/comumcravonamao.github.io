@@ -1,8 +1,8 @@
 ---
 title: "Os abutres têm fome"
 date: 2024-08-09 08:00:00 +0000
-categories: [cartoon, "ruas da amargura"]
-tags: [pt, sátira, cartoon, tributo]
+categories: [Cartoon]
+tags: [pt, cartoon,  "ruas da amargura", tributo]
 description: "Um interpretação gráfica da música de Viralata pelo mesmo nome"
 ---
 

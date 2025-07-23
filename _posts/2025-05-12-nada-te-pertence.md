@@ -1,8 +1,8 @@
 ---
 title: "Nada te pertence"
 date: 2025-05-12 07:00:00 +0000
-categories: [poesia]
-tags: [poesia, pt]
+categories: [PT, Poesia]
+tags: [poesia, pt, filosofia]
 description: "Nada te pertence Pois só ao tempo tudo cabe Pois só este a tudo vence Pois só este tudo sabe"
 ---
 

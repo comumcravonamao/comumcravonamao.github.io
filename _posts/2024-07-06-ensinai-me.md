@@ -1,8 +1,8 @@
 ---
 title: "Ensinai-me"
 date: 2024-07-06 07:00:00 +0000
-categories: [poesia]
-tags: [poesia, pt, sátira, poesiainterventiva]
+categories: [PT, Poesia]
+tags: [poesia, pt, poesiainterventiva]
 ---
 
 <div style="color:Platinum">

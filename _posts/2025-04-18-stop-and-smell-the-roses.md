@@ -1,7 +1,7 @@
 ---
 title: "Stop and Smell the Roses"
 date: 2025-04-18 08:00:00 +0000
-categories: [recomendação, livros]
+categories: [PT, Livros]
 tags: [recomendação, international, pt]
 description: "Às vezes temos que abrandar, ler, descançar"
 ---

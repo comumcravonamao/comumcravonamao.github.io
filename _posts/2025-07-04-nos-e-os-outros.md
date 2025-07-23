@@ -1,7 +1,7 @@
 ---
 title: "Nós e os Outros"
 date: 2025-07-04 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt]
 description: "Nascemos do nada ... Nossa vida é partilhada"
 ---

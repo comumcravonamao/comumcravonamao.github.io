@@ -1,7 +1,7 @@
 ---
 title: "Respeito I"
 date: 2025-05-12 07:00:00 +0000
-categories: [poesia]
+categories: [PT, Poesia]
 tags: [poesia, pt]
 ---
 

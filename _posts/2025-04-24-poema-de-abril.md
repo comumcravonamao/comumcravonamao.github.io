@@ -1,8 +1,8 @@
 ---
 title: "Poema d'abril"
 date: 2025-04-24 08:00:00 +0000
-categories: [poesia, abril]
-tags: [poesia, pt]
+categories: [PT, Poesia]
+tags: [poesia, pt, 25abril]
 description: "Oh rubra flor... a tua voz impera!"
 ---
 
