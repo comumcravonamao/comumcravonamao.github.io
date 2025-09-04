@@ -2,7 +2,7 @@
 title: "They do not look like nazis"
 date: 2025-03-25 08:00:00 +0000
 categories: [EN, Recomendations]
-tags: [recomendação, recomendation, international, poetry, poesia]
+tags: [recomendação, recomendations, international, poetry, poesia]
 ---
 ## PT
 
