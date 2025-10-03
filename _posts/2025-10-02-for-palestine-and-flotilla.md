@@ -1,4 +1,4 @@
----
+--
 title: "For Palestine and flotilla"
 date: 2025-10-02 07:00:00 +0000
 categories: [PT]
@@ -14,4 +14,5 @@ tags: [palestine, pt]
 ![IMG_20251002-5](/assets/images/IMG_20251002-5.jpg)
 ![IMG_20251002-6](/assets/images/IMG_20251002-6.jpg)
 ![IMG_20251002-7](/assets/images/IMG_20251002-7.jpg)
+![IMG_20251002-8](/assets/images/IMG_20251002-8.jpg)
 
