@@ -1,7 +1,7 @@
 ---
 title: "Problemas por baixo da burca?"
 date: 2025-10-19 07:00:00 +0000
-categories: [PT Opinião]
+categories: [PT, Opinião]
 tags: [opinião, pt]
 ---
 
