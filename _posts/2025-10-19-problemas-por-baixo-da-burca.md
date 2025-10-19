@@ -23,7 +23,7 @@ Em segundo, uma hipocrisia, pois nós por cá tapamos a mulher por várias razõ
 
 O problema da proteção.
 
-"Não é o tapar a cara, é o sistema de opressão [sub entendido está o patriarcado] que oprime e força a tais práticas ".
+"Não é o tapar a cara, é o sistema de opressão \[sub entendido está o patriarcado\] que oprime e força a tais práticas ".
 Pois mais uma desculpa esfarrapada não? Se o que queremos é defender a mulher então deveríamos começar defender "os nossos" casos de violência doméstica. Pois estatisticamente são mulheres que não tapam a cara que, em Portugal, a escondem com vergonha dos abusos que sofrem.
 
 O problema não é obrigar a pôr ou tirar... O problema é o autoritarismo, é obrigar. A restrição das liberdades individuais em matérias que apenas dizem respeito ao próprio. Em particular quando os motivos... desculpas... vão desde a falta de respeito à proteção de quem escolhe.
