@@ -1,4 +1,4 @@
---
+---
 title: "For Palestine and flotilla"
 date: 2025-10-02 07:00:00 +0000
 categories: [PT]
