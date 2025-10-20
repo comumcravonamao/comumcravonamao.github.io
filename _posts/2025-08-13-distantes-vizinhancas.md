@@ -15,5 +15,5 @@ Do qual em vão nos queixamos<br>
 </div>
 <p style="text-align:right">comumcravonamao</p>
 
-![distantes-vizinhancas-pt1](assets/images/distantes-vizinhancas-pt1.png)
+![distantes-vizinhancas-pt1](/asstes/images/distantes-vizinhancas-pt1.png)
 

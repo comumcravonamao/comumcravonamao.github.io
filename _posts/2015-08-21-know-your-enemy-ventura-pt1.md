@@ -7,4 +7,4 @@ description: "A degradação de Portugal e da UE"
 ---
 A degradação de Portugal e da UE.
 
-![know-your-enemy-ventura-pt1](assets/images/know-your-enemy-ventura-pt1.jpg)
+![know-your-enemy-ventura-pt1](/asstes/images/know-your-enemy-ventura-pt1.jpg)

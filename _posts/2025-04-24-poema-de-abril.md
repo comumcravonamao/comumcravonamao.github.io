@@ -32,4 +32,4 @@ que na fiel madrugada se faça primavera<br>
 
 ## Socials
 
-![poema-de-abril](assets/images/poema-de-abril.png)
+![poema-de-abril](/asstes/images/poema-de-abril.png)

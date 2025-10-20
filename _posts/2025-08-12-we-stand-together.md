@@ -13,5 +13,5 @@ We together prevent disasters<br>
 </div>
 <p style="text-align:right">comumcravonamao</p>
 
-![we-stand-together](assets/images/we-stand-together.png)
+![we-stand-together](/asstes/images/we-stand-together.png)
 

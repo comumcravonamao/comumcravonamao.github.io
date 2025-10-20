@@ -20,4 +20,4 @@ E nunca em vão<br><br>
 </div>
 <p style="text-align:right">comumcravonamao</p>
 
-![poema_acoes](assets/images/poema-acoes_2.png)
+![poema_acoes](/asstes/images/poema-acoes_2.png)

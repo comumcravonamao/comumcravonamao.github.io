@@ -17,4 +17,4 @@ Suas pobres flores não dão em nada<br>
 </div>
 <p style="text-align:right">comumcravonamao</p>
 
-![nao-culpo-as-gentes](assets/images/nao-culpo-as-gentes.png)
+![nao-culpo-as-gentes](/asstes/images/nao-culpo-as-gentes.png)

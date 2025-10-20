@@ -18,5 +18,5 @@ Lutei<br>
 </div>
 <p style="text-align:right">comumcravonamao</p>
 
-![para-martanunesilustra](assets/images/para-martanunesilustra.png)
+![para-martanunesilustra](/asstes/images/para-martanunesilustra.png)
 

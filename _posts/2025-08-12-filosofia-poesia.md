@@ -15,4 +15,4 @@ Mas o que és só por si<br>
 </div>
 <p style="text-align:right">comumcravonamao</p>
 
-![filosofia-poesia](assets/images/filosofia-poesia.png)
+![filosofia-poesia](/asstes/images/filosofia-poesia.png)

@@ -16,4 +16,4 @@ To bury all that's real<br>
 #fuckwar
 [#nãofaçamdenossoldadinhos](/posts/nao-facam-de-nos-soldadinhos/)
 
-![the-hole-we-dig-ourselves-into](assets/images/the-hole-we-dig-ourselves-into.png)
+![the-hole-we-dig-ourselves-into](/asstes/images/the-hole-we-dig-ourselves-into.png)
