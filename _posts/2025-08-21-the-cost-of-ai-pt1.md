@@ -131,8 +131,8 @@ Driving a petrol car ~24,000 km
 
 ## Images Summary
 
-![the-cost-of-ai-pt1_0](/asstes/images/the-cost-of-ai-pt1_0.png)
-![the-cost-of-ai-pt1_1](/asstes/images/the-cost-of-ai-pt1_1.png)
-![the-cost-of-ai-pt1_2](/asstes/images/the-cost-of-ai-pt1_2.png)
-![the-cost-of-ai-pt1_3](/asstes/images/the-cost-of-ai-pt1_3.png)
+![the-cost-of-ai-pt1_0](/assets/images/the-cost-of-ai-pt1_0.png)
+![the-cost-of-ai-pt1_1](/assets/images/the-cost-of-ai-pt1_1.png)
+![the-cost-of-ai-pt1_2](/assets/images/the-cost-of-ai-pt1_2.png)
+![the-cost-of-ai-pt1_3](/assets/images/the-cost-of-ai-pt1_3.png)
 

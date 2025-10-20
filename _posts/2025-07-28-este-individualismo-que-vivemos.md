@@ -16,4 +16,4 @@ E cedo a tudo trará degredo<br>
 </div>
 <p style="text-align:right">comumcravonamao</p>
 
-![este-individualismo-que-vivemos](/asstes/images/este-individualismo-que-vivemos.png)
+![este-individualismo-que-vivemos](/assets/images/este-individualismo-que-vivemos.png)
